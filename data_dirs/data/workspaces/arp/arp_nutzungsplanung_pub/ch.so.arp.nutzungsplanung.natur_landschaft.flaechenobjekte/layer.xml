@@ -1,0 +1,16 @@
+<layer>
+  <name>ch.so.arp.nutzungsplanung.natur_landschaft.flaechenobjekte</name>
+  <id>LayerInfoImpl--388d96c5:1790f344b36:-7ff4</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--388d96c5:1790f344b36:-7fff</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--388d96c5:1790f344b36:-7ff5</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-04-26 17:41:45.380 UTC</dateCreated>
+</layer>

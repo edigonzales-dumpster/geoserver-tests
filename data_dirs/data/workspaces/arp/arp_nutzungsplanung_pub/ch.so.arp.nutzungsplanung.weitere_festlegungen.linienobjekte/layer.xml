@@ -1,0 +1,16 @@
+<layer>
+  <name>ch.so.arp.nutzungsplanung.weitere_festlegungen.linienobjekte</name>
+  <id>LayerInfoImpl--3789f689:179148333db:-7ffb</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-56ce275e:1790f690833:-7ff3</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--3789f689:179148333db:-7ffc</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-04-27 18:08:54.608 UTC</dateCreated>
+</layer>

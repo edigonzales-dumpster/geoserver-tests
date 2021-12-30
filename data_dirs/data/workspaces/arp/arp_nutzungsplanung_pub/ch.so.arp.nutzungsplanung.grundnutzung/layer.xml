@@ -1,0 +1,17 @@
+<layer>
+  <name>ch.so.arp.nutzungsplanung.grundnutzung</name>
+  <id>LayerInfoImpl--7a10e726:178f59014d4:-7ffa</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--21c3550c:1790459d77f:-7ffe</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--7a10e726:178f59014d4:-7ffb</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-04-21 17:56:29.905 UTC</dateCreated>
+  <dateModified>2021-04-28 17:58:45.781 UTC</dateModified>
+</layer>

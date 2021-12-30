@@ -1,0 +1,17 @@
+<layer>
+  <name>ch.so.arp.nutzungsplanung.wald.baulinie</name>
+  <id>LayerInfoImpl--21c3550c:1790459d77f:-7fc1</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--21c3550c:1790459d77f:-7fc7</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--21c3550c:1790459d77f:-7fc2</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-04-24 17:17:31.493 UTC</dateCreated>
+  <dateModified>2021-04-24 17:57:51.953 UTC</dateModified>
+</layer>

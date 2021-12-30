@@ -1,0 +1,16 @@
+<layer>
+  <name>ch.so.arp.nutzungsplanung.weitere_festlegungen.flaechenobjekte</name>
+  <id>LayerInfoImpl--3789f689:179148333db:-7ff7</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-56ce275e:1790f690833:-7feb</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--3789f689:179148333db:-7ff8</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-04-27 18:10:02.218 UTC</dateCreated>
+</layer>

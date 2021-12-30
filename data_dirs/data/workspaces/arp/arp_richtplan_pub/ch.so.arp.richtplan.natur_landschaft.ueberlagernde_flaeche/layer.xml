@@ -1,0 +1,16 @@
+<layer>
+  <name>ch.so.arp.richtplan.natur_landschaft.ueberlagernde_flaeche</name>
+  <id>LayerInfoImpl--3789f689:179148333db:-7fdd</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--3789f689:179148333db:-7fe1</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--3789f689:179148333db:-7fde</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-04-28 17:15:13.301 UTC</dateCreated>
+</layer>

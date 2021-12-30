@@ -1,0 +1,16 @@
+<layer>
+  <name>ch.so.arp.nutzungsplanung.ortsbildschutz.punktobjekte</name>
+  <id>LayerInfoImpl-5747d806:17909b6e3cb:-7ff6</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-5747d806:17909b6e3cb:-7ffc</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-5747d806:17909b6e3cb:-7ff7</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-04-25 15:59:52.986 UTC</dateCreated>
+</layer>

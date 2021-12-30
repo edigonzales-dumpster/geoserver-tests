@@ -1,0 +1,16 @@
+<layer>
+  <name>nutzungsplanung_grundnutzung_2</name>
+  <id>LayerInfoImpl--7a10e726:178f59014d4:-7fe5</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--570ae188:124761b8d78:-7fe0</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--7a10e726:178f59014d4:-7fe6</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-04-21 18:19:07.753 UTC</dateCreated>
+</layer>

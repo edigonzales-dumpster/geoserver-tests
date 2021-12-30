@@ -1,0 +1,16 @@
+<layer>
+  <name>ch.swisstopo.swissimage_2018.rgb</name>
+  <id>LayerInfoImpl--2149009a:179897c7cd0:-2fd7</id>
+  <type>RASTER</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--570ae188:124761b8d78:-7fe2</id>
+  </defaultStyle>
+  <resource class="coverage">
+    <id>CoverageInfoImpl--2149009a:179897c7cd0:-2fd8</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-05-20 11:22:59.607 UTC</dateCreated>
+</layer>

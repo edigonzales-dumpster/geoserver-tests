@@ -1,0 +1,17 @@
+<layer>
+  <name>ch.so.arp.nutzungsplanung.wald.grundnutzung</name>
+  <id>LayerInfoImpl--21c3550c:1790459d77f:-7fdb</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--21c3550c:1790459d77f:-7fd9</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--21c3550c:1790459d77f:-7fdc</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-04-24 16:33:21.192 UTC</dateCreated>
+  <dateModified>2021-04-24 17:41:14.212 UTC</dateModified>
+</layer>

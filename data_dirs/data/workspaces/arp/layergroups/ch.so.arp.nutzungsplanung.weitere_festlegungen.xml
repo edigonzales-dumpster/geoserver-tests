@@ -1,0 +1,40 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl--3789f689:179148333db:-7ff5</id>
+  <name>ch.so.arp.nutzungsplanung.weitere_festlegungen</name>
+  <mode>OPAQUE_CONTAINER</mode>
+  <title>weitere Festlegungen (Nutzungsplanung)</title>
+  <workspace>
+    <id>WorkspaceInfoImpl--7a10e726:178f59014d4:-7fff</id>
+  </workspace>
+  <publishables>
+    <published type="layer">
+      <id>LayerInfoImpl--3789f689:179148333db:-7ff7</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--3789f689:179148333db:-7ffb</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-56ce275e:1790f690833:-7ff6</id>
+    </published>
+  </publishables>
+  <styles>
+    <style>
+      <id>StyleInfoImpl-56ce275e:1790f690833:-7feb</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-56ce275e:1790f690833:-7ff3</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-56ce275e:1790f690833:-7ffa</id>
+    </style>
+  </styles>
+  <bounds>
+    <minx>2592299.5</minx>
+    <maxx>2645020.75</maxx>
+    <miny>1213467.5</miny>
+    <maxy>1261052.5</maxy>
+    <crs class="projected">EPSG:2056</crs>
+  </bounds>
+  <dateCreated>2021-04-27 18:17:09.716 UTC</dateCreated>
+  <dateModified>2021-05-03 19:57:39.972 UTC</dateModified>
+</layerGroup>

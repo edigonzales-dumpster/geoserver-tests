@@ -1,0 +1,16 @@
+<layer>
+  <name>ch.so.afu.gewaesserschutz.bereiche</name>
+  <id>LayerInfoImpl--3789f689:179148333db:-7fc3</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--3789f689:179148333db:-7fc7</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--3789f689:179148333db:-7fc4</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-04-29 17:06:23.251 UTC</dateCreated>
+</layer>

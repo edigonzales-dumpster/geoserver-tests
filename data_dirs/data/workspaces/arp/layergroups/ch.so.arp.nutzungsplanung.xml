@@ -1,0 +1,61 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl-56ce275e:1790f690833:-7ffc</id>
+  <name>ch.so.arp.nutzungsplanung</name>
+  <mode>NAMED</mode>
+  <title>Nutzungsplanung</title>
+  <workspace>
+    <id>WorkspaceInfoImpl--7a10e726:178f59014d4:-7fff</id>
+  </workspace>
+  <publishables>
+    <published type="layer">
+      <id>LayerInfoImpl--42dc3f01:1790f57453c:-7ffb</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-3317ea81:1790f46a864:-7ff0</id>
+    </published>
+    <published type="layerGroup">
+      <id>LayerGroupInfoImpl-5747d806:17909b6e3cb:-7fd2</id>
+    </published>
+    <published type="layerGroup">
+      <id>LayerGroupInfoImpl--21c3550c:1790459d77f:-7fc0</id>
+    </published>
+    <published type="layerGroup">
+      <id>LayerGroupInfoImpl-3317ea81:1790f46a864:-7ff7</id>
+    </published>
+    <published type="layerGroup">
+      <id>LayerGroupInfoImpl-5747d806:17909b6e3cb:-7fe5</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--21c3550c:1790459d77f:-7ff7</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--7a10e726:178f59014d4:-7ffa</id>
+    </published>
+  </publishables>
+  <styles>
+    <style>
+      <id>StyleInfoImpl--42dc3f01:1790f57453c:-7fff</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-3317ea81:1790f46a864:-7ff4</id>
+    </style>
+    <style/>
+    <style/>
+    <style/>
+    <style/>
+    <style>
+      <id>StyleInfoImpl--21c3550c:1790459d77f:-7ff4</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--21c3550c:1790459d77f:-7ffe</id>
+    </style>
+  </styles>
+  <bounds>
+    <minx>2592299.5</minx>
+    <maxx>2645020.75</maxx>
+    <miny>1213467.5</miny>
+    <maxy>1261052.5</maxy>
+    <crs class="projected">EPSG:2056</crs>
+  </bounds>
+  <dateCreated>2021-04-26 18:25:20.987 UTC</dateCreated>
+</layerGroup>

@@ -1,0 +1,46 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl--21c3550c:1790459d77f:-7fc0</id>
+  <name>ch.so.arp.nutzungsplanung.wald</name>
+  <mode>OPAQUE_CONTAINER</mode>
+  <title>Wald (Nutzungsplanung)</title>
+  <workspace>
+    <id>WorkspaceInfoImpl--7a10e726:178f59014d4:-7fff</id>
+  </workspace>
+  <publishables>
+    <published type="layer">
+      <id>LayerInfoImpl--21c3550c:1790459d77f:-7fce</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--21c3550c:1790459d77f:-7fc1</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--21c3550c:1790459d77f:-7fe0</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--21c3550c:1790459d77f:-7fdb</id>
+    </published>
+  </publishables>
+  <styles>
+    <style>
+      <id>StyleInfoImpl--21c3550c:1790459d77f:-7fd1</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--21c3550c:1790459d77f:-7fc7</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--21c3550c:1790459d77f:-7fe8</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--21c3550c:1790459d77f:-7fd9</id>
+    </style>
+  </styles>
+  <bounds>
+    <minx>2592299.5</minx>
+    <maxx>2645020.75</maxx>
+    <miny>1213467.5</miny>
+    <maxy>1261052.5</maxy>
+    <crs class="projected">EPSG:2056</crs>
+  </bounds>
+  <dateCreated>2021-04-24 17:21:07.75 UTC</dateCreated>
+  <dateModified>2021-04-25 17:13:59.226 UTC</dateModified>
+</layerGroup>

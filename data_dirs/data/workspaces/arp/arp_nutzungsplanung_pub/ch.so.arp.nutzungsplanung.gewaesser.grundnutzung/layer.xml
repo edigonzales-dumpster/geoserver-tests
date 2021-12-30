@@ -1,0 +1,16 @@
+<layer>
+  <name>ch.so.arp.nutzungsplanung.gewaesser.grundnutzung</name>
+  <id>LayerInfoImpl-5747d806:17909b6e3cb:-7fd6</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-5747d806:17909b6e3cb:-7fda</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-5747d806:17909b6e3cb:-7fd7</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-04-25 17:00:48.536 UTC</dateCreated>
+</layer>

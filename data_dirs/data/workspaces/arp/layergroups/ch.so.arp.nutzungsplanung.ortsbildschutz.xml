@@ -1,0 +1,40 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl-5747d806:17909b6e3cb:-7fe5</id>
+  <name>ch.so.arp.nutzungsplanung.ortsbildschutz</name>
+  <mode>OPAQUE_CONTAINER</mode>
+  <title>Ortsbildschutz (Nutzungsplanung)</title>
+  <workspace>
+    <id>WorkspaceInfoImpl--7a10e726:178f59014d4:-7fff</id>
+  </workspace>
+  <publishables>
+    <published type="layer">
+      <id>LayerInfoImpl-5747d806:17909b6e3cb:-7ff6</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-5747d806:17909b6e3cb:-7ff1</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-5747d806:17909b6e3cb:-7fe9</id>
+    </published>
+  </publishables>
+  <styles>
+    <style>
+      <id>StyleInfoImpl-5747d806:17909b6e3cb:-7ffc</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-5747d806:17909b6e3cb:-7ff5</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-5747d806:17909b6e3cb:-7fed</id>
+    </style>
+  </styles>
+  <bounds>
+    <minx>2592299.5</minx>
+    <maxx>2645020.75</maxx>
+    <miny>1213467.5</miny>
+    <maxy>1261052.5</maxy>
+    <crs class="projected">EPSG:2056</crs>
+  </bounds>
+  <dateCreated>2021-04-25 16:28:52.950 UTC</dateCreated>
+  <dateModified>2021-04-27 18:21:40.769 UTC</dateModified>
+</layerGroup>

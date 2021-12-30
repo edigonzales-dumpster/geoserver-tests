@@ -1,0 +1,33 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl-3317ea81:1790f46a864:-7ff7</id>
+  <name>ch.so.arp.nutzungsplanung.natur_landschaft</name>
+  <mode>OPAQUE_CONTAINER</mode>
+  <title>Natur / Landschaft (Nutzungsplanung)</title>
+  <workspace>
+    <id>WorkspaceInfoImpl--7a10e726:178f59014d4:-7fff</id>
+  </workspace>
+  <publishables>
+    <published type="layer">
+      <id>LayerInfoImpl-3317ea81:1790f46a864:-7ffb</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--388d96c5:1790f344b36:-7ff4</id>
+    </published>
+  </publishables>
+  <styles>
+    <style>
+      <id>StyleInfoImpl-3317ea81:1790f46a864:-7fff</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--388d96c5:1790f344b36:-7fff</id>
+    </style>
+  </styles>
+  <bounds>
+    <minx>2592299.5</minx>
+    <maxx>2645020.75</maxx>
+    <miny>1213467.5</miny>
+    <maxy>1261052.5</maxy>
+    <crs class="projected">EPSG:2056</crs>
+  </bounds>
+  <dateCreated>2021-04-26 17:49:06.442 UTC</dateCreated>
+</layerGroup>

@@ -1,0 +1,33 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl--5cd91f64:17933ca7081:-7ffe</id>
+  <name>ch.so.afu.gewaesserschutz</name>
+  <mode>SINGLE</mode>
+  <title>ch.so.afu.gewaesserschutz</title>
+  <workspace>
+    <id>WorkspaceInfoImpl--3789f689:179148333db:-7fd3</id>
+  </workspace>
+  <publishables>
+    <published type="layer">
+      <id>LayerInfoImpl--3789f689:179148333db:-7fc3</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--3789f689:179148333db:-7fcc</id>
+    </published>
+  </publishables>
+  <styles>
+    <style>
+      <id>StyleInfoImpl--3789f689:179148333db:-7fc7</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--3789f689:179148333db:-7fd1</id>
+    </style>
+  </styles>
+  <bounds>
+    <minx>2592299.5</minx>
+    <maxx>2645020.75</maxx>
+    <miny>1213465.0</miny>
+    <maxy>1261568.375</maxy>
+    <crs class="projected">EPSG:2056</crs>
+  </bounds>
+  <dateCreated>2021-05-03 20:01:28.108 UTC</dateCreated>
+</layerGroup>

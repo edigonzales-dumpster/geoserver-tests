@@ -1,0 +1,16 @@
+<layer>
+  <name>ch.so.agi.lidar_2019.dtm_hillshade</name>
+  <id>LayerInfoImpl-70761cf5:17971113b08:-74d7</id>
+  <type>RASTER</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--570ae188:124761b8d78:-7fe2</id>
+  </defaultStyle>
+  <resource class="coverage">
+    <id>CoverageInfoImpl-70761cf5:17971113b08:-74d8</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-05-15 17:49:21.577 UTC</dateCreated>
+</layer>

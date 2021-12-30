@@ -1,0 +1,16 @@
+<layer>
+  <name>ch.so.arp.nutzungsplanung.erschliessungsplanung.baulinien</name>
+  <id>LayerInfoImpl--42dc3f01:1790f57453c:-7ffb</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--42dc3f01:1790f57453c:-7fff</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--42dc3f01:1790f57453c:-7ffc</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-04-26 18:15:08.605 UTC</dateCreated>
+</layer>

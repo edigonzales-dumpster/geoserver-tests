@@ -1,0 +1,38 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl-5747d806:17909b6e3cb:-7fd2</id>
+  <name>ch.so.arp.nutzungsplanung.gewaesser</name>
+  <mode>OPAQUE_CONTAINER</mode>
+  <title>Gewässer (Nutzungsplanung)</title>
+  <workspace>
+    <id>WorkspaceInfoImpl--7a10e726:178f59014d4:-7fff</id>
+  </workspace>
+  <publishables>
+    <published type="layer">
+      <id>LayerInfoImpl-5747d806:17909b6e3cb:-7fdd</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-5747d806:17909b6e3cb:-7fd6</id>
+    </published>
+  </publishables>
+  <styles>
+    <style>
+      <id>StyleInfoImpl-5747d806:17909b6e3cb:-7fe1</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-5747d806:17909b6e3cb:-7fda</id>
+    </style>
+  </styles>
+  <bounds>
+    <minx>2592299.5</minx>
+    <maxx>2645020.75</maxx>
+    <miny>1213467.5</miny>
+    <maxy>1261052.5</maxy>
+    <crs class="projected">EPSG:2056</crs>
+  </bounds>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-04-25 17:03:37.15 UTC</dateCreated>
+  <dateModified>2021-04-25 17:04:05.926 UTC</dateModified>
+</layerGroup>
