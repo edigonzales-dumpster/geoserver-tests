@@ -253,6 +253,7 @@ if __name__ == '__main__':
                                          % (srs2_width,srs2_height,srs2_bbox[0][0],srs2_bbox[0][1],srs2_bbox[1][0],srs2_bbox[1][1]))
 
             count = count-1
+            print ("count: " + str(count))
                
 
     if dataset:
